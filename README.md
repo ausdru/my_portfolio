@@ -11,10 +11,8 @@ This project encompassed & displayed my knowledge and capabilities using the HTM
 5. Open with your preferred text editor.
 
 ## Usage:
-Functioning links that direct user to corresponding card with information.
-
-![top section](./assets/images/SS1.PNG)
-![bottom section](./assets/images/SS2.PNG)
+![top](https://github.com/ausdru/my_portfolio/blob/main/assets/SS1.png)
+![bottom](https://github.com/ausdru/my_portfolio/blob/main/assets/SS2.png)
 
 ## License:
 Copyright (c) 2023 Austin Drury
