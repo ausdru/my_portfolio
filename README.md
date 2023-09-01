@@ -1,9 +1,9 @@
 # My Portfolio
 
-## Description
+## Description:
 This project encompassed & displayed my knowledge and capabilities using the HTML & CSS languages. It is a tool and resource that I'll utilize for my professional career as a website that markets not only myself as an individual, but showcases my accomplishments, certifications, and projects/applications.
 
-## Installation
+## Installation:
 1. In Git Bash, 'cd' into your repo folder, and create "my_portfolio" folder.
 2. Login to GitHub account.
 3. Direct yourself to repo page, and clone project code.
@@ -12,8 +12,9 @@ This project encompassed & displayed my knowledge and capabilities using the HTM
 
 ## Usage:
 Functioning links that direct user to corresponding card with information.
-![top section](assets/images/SS1.PNG)
-![bottom section](assets/images/SS2.PNG)
+
+![top section](./assets/images/SS1.PNG)
+![bottom section](./assets/images/SS2.PNG)
 
 ## License:
 Copyright (c) 2023 Austin Drury
