@@ -1,5 +1,7 @@
 # My Portfolio
 
+[Link To Live URL](https://ausdru.github.io/my_portfolio/)
+
 ## Description:
 This project encompassed & displayed my knowledge and capabilities using the HTML & CSS languages. It is a tool and resource that I'll utilize for my professional career as a website that markets not only myself as an individual, but showcases my accomplishments, certifications, and projects/applications.
 
